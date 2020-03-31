@@ -16,6 +16,6 @@
 !./README.md
 
 #Except relevant folders in tracked directories
-!./Dart-stats/modules
-!./Dart-stats/sites
-!./Dart-stats/DB
+!./Dart-stats/modules/
+!./Dart-stats/sites/
+!./Dart-stats/DB/
