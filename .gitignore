@@ -15,10 +15,7 @@
 !/.gitignore
 !/README.md
 
-#All subdirectories
-#!*/
-
-#Except relevant folders in tracked directories
-#!./Dart-stats/modules/*
-#!./Dart-stats/sites/*
-#!./Dart-stats/DB/*
+#Relevant folders in tracked directories
+!/Dart-stats/modules/**
+!./Dart-stats/sites/**
+!./Dart-stats/DB/**
