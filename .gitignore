@@ -5,15 +5,15 @@
 ########################
 
 #Ignore everything
-#*
+*
 
 ##############
 # Exceptions #
 ##############
 
 #Readme and gitignore
-#!./gitignore
-#!./README.md
+!./.gitignore
+!./README.md
 
 #Except relevant folders in tracked directories
 #!./Dart-stats/modules
