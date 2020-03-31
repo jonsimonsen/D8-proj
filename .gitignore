@@ -7,15 +7,15 @@
 #Ignore everything
 /**
 
-##############
-# Exceptions #
-##############
-
-#Readme and gitignore
+#Unignore gitignore and Readme
 !/.gitignore
 !/README.md
 
-#Relevant folders in tracked directories
+#Unignore all folders that are of interest
+!/Dart-stats
+!/Dart-stats/DB
+!/Dart-stats/modules
+!/Dart-stats/sites
+!/Dart-stats/DB/**
 !/Dart-stats/modules/**
-!./Dart-stats/sites/**
-!./Dart-stats/DB/**
+!/Dart-stats/sites/**
