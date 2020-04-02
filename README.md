@@ -8,4 +8,4 @@ Collection of Drupal 8 projects
 -The projects are created in Acquia DevDesktop. To be able to run them, install this and clone the repo to the Folder that DevDesktop uses for new projects. More configuration might be needed.  
 -The plan is to ignore all files in the repo except the projects that need tracking.  
 
-test
+-It seems like the suggested method didn't work, so adding all folders and files will be tested now.

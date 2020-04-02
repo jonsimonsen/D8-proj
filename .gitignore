@@ -5,17 +5,17 @@
 ########################
 
 #Ignore everything
-/**
+#/**
 
 #Unignore gitignore and Readme
-!/.gitignore
-!/README.md
+#!/.gitignore
+#!/README.md
 
 #Unignore all folders that are of interest
-!/Dart-stats
-!/Dart-stats/DB
-!/Dart-stats/modules
-!/Dart-stats/sites
-!/Dart-stats/DB/**
-!/Dart-stats/modules/**
-!/Dart-stats/sites/**
+#!/Dart-stats
+#/Dart-stats/DB
+#!/Dart-stats/modules
+#!/Dart-stats/sites
+#!/Dart-stats/DB/**
+#!/Dart-stats/modules/**
+#!/Dart-stats/sites/**
