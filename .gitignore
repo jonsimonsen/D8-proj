@@ -19,3 +19,9 @@
 #!/Dart-stats/DB/**
 #!/Dart-stats/modules/**
 #!/Dart-stats/sites/**
+
+#Ignore private files
+/Dart-stats/DB
+/tarbals
+011.before-going-live.txt
+darts.txt
